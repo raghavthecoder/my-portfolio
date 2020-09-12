@@ -1,0 +1,26 @@
+h1{
+    color: coral;
+}
+
+*{
+    border: solid ;
+}
+.header{
+  background-color: greenyellow ;
+  display: flex;
+  justify-content: space-between
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer{
+    display:flex;
+    justify-content: left ;
+}
